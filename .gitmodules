@@ -1,3 +1,3 @@
 [submodule "taxonomy"]
 	path = taxonomy
-	url = https://github.com/KenOcheltree/taxonomy.git
+	url = https://github.com/IBM-Cloud/redhat-ai-instructlab-taxonomy.git

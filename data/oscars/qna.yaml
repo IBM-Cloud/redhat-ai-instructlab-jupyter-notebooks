@@ -211,7 +211,7 @@ seed_examples:
 document_outline: |
  Information about the 2024 Academy Awards ceremony where the Oscars are presented.
 document:
-  repo: https://github.com/KenOcheltree/ilab-test
-  commit: e50adf9838ac9a1705720d3ec39054e9f6786841
+  repo: https://github.com/IBM-Cloud/redhat-ai-instructlab-jupyter-notebooks
+  commit: fa6cc3b4ec924d7dd9ca00eb73e3189160006b29
   patterns:
     - refs/oscars2024_results.md

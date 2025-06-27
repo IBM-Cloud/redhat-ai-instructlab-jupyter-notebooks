@@ -23,9 +23,9 @@ The Jupyter notebook assists in the first component of constructing taxonomy-bas
 
     a. Select the **Github** tab.
 
-    b. For the organization, enter `KenOcheltree`.
+    b. For the organization, enter `IBM-Cloud`.
 
-    c. Select the `KenOcheltree/ilab-test` repository.
+    c. Select the `IBM-Cloud/redhat-ai-instructlab-jupyter-notebooks` repository.
 
     <img src="./refs/Github.png" width=600>
 
